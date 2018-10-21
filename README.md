@@ -1,5 +1,5 @@
 # DimensCompat
-常用资源大小适配
 
-[![](https://jitpack.io/v/dujianchi/DimensCompat.svg)](https://jitpack.io/#dujianchi/DimensCompat)
-
+常用资源大小适配  [![](https://jitpack.io/v/cn.dujc/DimensCompat.svg)](https://jitpack.io/#cn.dujc/DimensCompat)  
+  
+Android常用的一些类  [![](https://www.jitpack.io/v/cn.dujc/CoreApp.svg)](https://www.jitpack.io/#cn.dujc/CoreApp)
